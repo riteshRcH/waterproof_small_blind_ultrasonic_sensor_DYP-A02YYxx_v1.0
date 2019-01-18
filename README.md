@@ -1,0 +1,1 @@
+# waterproof_small_blind_ultrasonic_sensor_DYP-A02YYxx_v1.0
