@@ -5,7 +5,7 @@
  * This waterproof sensor    -> https://www.ebay.com/itm/253978673298
  * Cheaper waterproof sensor -> https://www.ebay.com/itm/254058015473
  * 
- * Support Bulk and custom orders in Shenzhen, China and Guangdong, China.
+ * Support Bulk and custom orders.
  * 
  * Components: Arduino UNO, DYPA02YYUM  v1.0
  * 
