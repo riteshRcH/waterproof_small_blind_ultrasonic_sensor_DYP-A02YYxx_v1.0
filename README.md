@@ -5,7 +5,7 @@
 
 #### 1.1 Overview
 
-> DYP-A02YYxx-V1.0 series is a high performance ranging module designed with closed split waterproof  probe. group. With a certain degree of dustproof and waterproof, it is suitable for wet and harsh  measurement occasions. 3cm smaller blind spot for different tests The condition is a high >performance, high reliability commercial grade functional module that is easy to operate
+> DYP-A02YYxx-V1.0 series is a high performance ranging module designed with closed split waterproof  probe. Sensor being dustproof and waterproof, it is suitable for wet and harsh  measurement occasions. 3cm small blind spot for different tests. It is a high performance, high reliability commercial grade functional module that is easy to operate.
 
 #### 1.2 Product Features
 
