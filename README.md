@@ -1,7 +1,7 @@
 # DYPA02YYxx v1 Seal Waterproof ultrasonic/distance small blind sensor
 | website name | link |
 | ------ | ------ |
-| [Ebay](https://www.ebay.com/itm/253978673298) | https://www.ebay.com/itm/253978673298|
+| [Ebay.com](https://www.ebay.com/itm/253978673298) | https://www.ebay.com/itm/253978673298|
 
 #### 1.1 Overview
 
@@ -46,3 +46,9 @@
 | ------ | ------ | ------ |
 | DYPA02YYxx v1 (This waterproof sensor)| [Ebay.com](https://www.ebay.com/itm/253978673298) | https://www.ebay.com/itm/253978673298|
 | Cheaper waterproof sensor| [Ebay.com](https://www.ebay.com/itm/254058015473) | https://www.ebay.com/itm/254058015473|
+
+
+![Product](https://raw.githubusercontent.com/ritesht93/waterproof_small_blind_ultrasonic_sensor_DYP-A02YYxx_v1.0/master/photos/tilt_view.jpg)
+![Front View](https://raw.githubusercontent.com/ritesht93/waterproof_small_blind_ultrasonic_sensor_DYP-A02YYxx_v1.0/master/photos/front.jpg)
+![Back View](https://raw.githubusercontent.com/ritesht93/waterproof_small_blind_ultrasonic_sensor_DYP-A02YYxx_v1.0/master/photos/back.jpg)
+![Dimensions](https://raw.githubusercontent.com/ritesht93/waterproof_small_blind_ultrasonic_sensor_DYP-A02YYxx_v1.0/master/photos/dimensions.jpg)
