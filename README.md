@@ -40,7 +40,7 @@
 * Many more!!
 
 
-# Buy from
+# Bought from
 
 | Item | website name | link |
 | ------ | ------ | ------ |
