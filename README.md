@@ -1,4 +1,4 @@
-# DYPA02YYxx v1 Seal Waterproof ultrasonic/distance small blind sensor
+# DYPA02YYxx v1 Waterproof Ultrasonic small blind sensor
 | website name | link |
 | ------ | ------ |
 | [Ebay.com](https://www.ebay.com/itm/253978673298) | https://www.ebay.com/itm/253978673298|
