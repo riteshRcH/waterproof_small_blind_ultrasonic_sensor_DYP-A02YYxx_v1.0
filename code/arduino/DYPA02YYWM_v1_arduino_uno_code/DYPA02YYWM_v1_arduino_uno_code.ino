@@ -1,11 +1,6 @@
 /**
  * 
- * Author: Ritesh Talreja, Item location and Made in China, Warehouse: Shenzhen, Guangdong.
- * 
- * This waterproof sensor    -> https://www.ebay.com/itm/253978673298
- * Cheaper waterproof sensor -> https://www.ebay.com/itm/254058015473
- * 
- * Support Bulk and custom orders.
+ * Author: Ritesh Talreja, Made in China, Warehouse: Shenzhen, Guangdong.
  * 
  * Components: Arduino UNO, DYPA02YYWM  v1.0
  * 
