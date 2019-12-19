@@ -1,7 +1,4 @@
 # DYPA02YYxx v1 Waterproof Ultrasonic small blind sensor
-<!--| website name | link |
-| ------ | ------ |
-| [Ebay.com](https://www.ebay.com/itm/253978673298) | https://www.ebay.com/itm/253978673298|-->
 
 #### 1.1 Overview
 
@@ -38,14 +35,6 @@
 * Robot obstacle avoidance, automatic control 
 * Object proximity and presence awareness
 * Many more!!
-
-
-<!--# Bought from
-
-| Item | website name | link |
-| ------ | ------ | ------ |
-| DYPA02YYxx v1 (This waterproof sensor)| [Ebay.com](https://www.ebay.com/itm/253978673298) | https://www.ebay.com/itm/253978673298|
-| Cheaper water resistant sensor| [Ebay.com](https://www.ebay.com/itm/254058015473) | https://www.ebay.com/itm/254113850508|-->
 
 
 ![Product](https://raw.githubusercontent.com/ritesht93/waterproof_small_blind_ultrasonic_sensor_DYP-A02YYxx_v1.0/master/photos/tilt_view.jpg)
