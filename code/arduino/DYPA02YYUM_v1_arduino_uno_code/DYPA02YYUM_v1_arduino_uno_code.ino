@@ -1,6 +1,6 @@
 /**
  * 
- * Author: Ritesh Talreja, Made in China, Warehouse: Shenzhen, Guangdong.
+ * Made in China, Warehouse: Shenzhen, Guangdong.
  * 
  * Components: Arduino UNO, DYPA02YYUM  v1.0
  * 
